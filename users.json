@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "first_name": "Melisa",
+        "last_name": "Kinsman",
+        "email": "mkinsman0@ft.com",
+        "gender": "Female"
+    },
+    {
+        "id": 2,
+        "first_name": "Petr",
+        "last_name": "Howlings",
+        "email": "phowlings1@umich.edu",
+        "gender": "Genderqueer"
+    },
+    {
+        "id": 3,
+        "first_name": "Lyndsay",
+        "last_name": "Strathdee",
+        "email": "lstrathdee2@360.cn",
+        "gender": "Female"
+    },
+    {
+        "id": 4,
+        "first_name": "Chaddy",
+        "last_name": "Foxhall",
+        "email": "cfoxhall3@blinklist.com",
+        "gender": "Male"
+    },
+    {
+        "id": 5,
+        "first_name": "Ruprecht",
+        "last_name": "Toone",
+        "email": "rtoone4@digg.com",
+        "gender": "Male"
+    },
+    {
+        "id": 6,
+        "first_name": "Prisca",
+        "last_name": "Grinnov",
+        "email": "pgrinnov5@deliciousdays.com",
+        "gender": "Female"
+    },
+    {
+        "id": 7,
+        "first_name": "Dudley",
+        "last_name": "Harden",
+        "email": "dharden6@slashdot.org",
+        "gender": "Male"
+    },
+    {
+        "id": 8,
+        "first_name": "Errick",
+        "last_name": "Jollye",
+        "email": "ejollye7@shareasale.com",
+        "gender": "Male"
+    },
+    {
+        "id": 9,
+        "first_name": "Jerrilyn",
+        "last_name": "Reckhouse",
+        "email": "jreckhouse8@clickbank.net",
+        "gender": "Female"
+    },
+    {
+        "id": 10,
+        "first_name": "Ravi",
+        "last_name": "Batchley",
+        "email": "rbatchley9@desdev.cn",
+        "gender": "Male"
+    }
+]
